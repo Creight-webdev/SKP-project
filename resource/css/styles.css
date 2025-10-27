@@ -280,13 +280,13 @@ figcaption{
     --gap: 10px;
     gap: var(--gap);
     height: 100px;
-    width: 870px;
+    width: 650px;
     gap: 50;
     overflow: hidden;
     padding-top: 10px;
     padding-bottom: 0;
     position: relative;
-    right: 400px;
+   right: 250px;
     top: 245px;
     
 
@@ -451,11 +451,11 @@ figcaption{
 
 .UC{
     font-weight: bolder;
-    font-size: 1.5rem;
-    width: 590px;
+    font-size: 1rem;
+    width: 390px;
     position: relative;
     top: 250px;
-    right: 250px;
+    right: 150px;
     background-color: rgb(95, 95, 95);
     color: rgb(255, 255, 255);
     padding: 10px;
@@ -486,7 +486,6 @@ figcaption{
 
 
     
-
 
 
 

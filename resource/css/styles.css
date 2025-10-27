@@ -12,7 +12,7 @@ body {
 }
 
 #blue p {
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: bold;
     text-align: center;
     width: 200px;
@@ -21,6 +21,7 @@ body {
     bottom: 8px;
     display: grid;
     padding-bottom: 12px;
+
 
 }
 
@@ -243,7 +244,7 @@ figcaption{
 
 
 
-@media only screen and (max-width: 426px) and (min-width: 320px) and (orientation: portrait){
+@media only screen and (min-width: 320px) and (max-width: 480px) and (orientation: portrait){
 
    
 
@@ -251,23 +252,23 @@ figcaption{
     position: relative;
     top: 45%;
     left: 21%;
-    font-size: 1.6rem;
+    font-size: 1rem;
     text-align: left;
     line-height: 10px; 
-    width: 50%;
-    height: 230px;
-    background-color: rgba(205, 205, 205, 0.84); 
+    width: 52%;
+    height: 200px;
+    background-color: rgba(186, 186, 186, 0.879); 
     border-radius: 10px;
 }  
 
 .banner {
     color: rgb(0, 0, 0);
     position: relative;
-    bottom: 360px;
+    bottom: 350px;
     background-image: url("../images/cccccccccc.jpg");
     background-size: cover;
-    height: 750px;
-    width: 870px;
+    height: 650px;
+    width: 640px;
     
     
 }
@@ -302,10 +303,7 @@ figcaption{
 #bf h2,h4 {
     position:relative;
     text-align: left;
-    left: 20px;
-    
-    
-    
+    left: 20px;   
     
 }
 
@@ -322,13 +320,13 @@ figcaption{
 }
 
 #blue p {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-weight: bold;
     text-align: center;
     position: relative;
-    top: 4px;
+    top: 0;
     width: 300px;
-    left: 70px;
+    left: 45px;
     display: grid;
 
 }
@@ -385,7 +383,7 @@ figcaption{
     left: 15px;
 }
 #bf p {
-    font-size: 1rem;
+    font-size: 12px;
     position:relative;
     top: 30px;
     right: 5px;
@@ -393,22 +391,22 @@ figcaption{
 }
 
 .cart img {
-    height: 40px;
+    height: 35px;
     position: relative;
     z-index: 1;
-    left: 780px;
-    bottom: 30px;
+    left: 570px;
+    bottom: 40px;
 }
 .cart1 img {
-    height: 40px;
+    height: 35px;
     position: relative;
     z-index: 1;
-    left: 720px;
-    bottom: 75px;
+    left: 510px;
+    bottom: 80px;
 }
 
 .cart2 img {
-    height: 40px;
+    height: 35px;
     position: relative;
     z-index: 1;
     left: 35px;
@@ -420,7 +418,7 @@ figcaption{
     font-size: 1rem;
     width: 390px;
     position: relative;
-    top: 290px;
+    top: 250px;
     right: 150px;
     background-color: rgb(95, 95, 95);
     color: rgb(255, 255, 255);

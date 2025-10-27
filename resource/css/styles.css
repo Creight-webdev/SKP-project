@@ -251,35 +251,28 @@ figcaption{
   #banner {
    
     position: relative;
-    top: 34%;
+    top: 40%;
     font-size: 1rem;
     text-align: left;
     line-height: 4px; 
     width: 61%;
-    height: 180.3px;
-    background-color: rgba(60, 59, 59, 0.982); 
+    height: 170px;
+    background-color: rgba(181, 181, 181, 0.785); 
     border-radius: 5px;
-    left: 70px;
+    left: 80px;
 }  
 
 .banner {
     color: rgb(0, 0, 0);
-    bottom: 200px;
+    bottom: 280px;
     background-image: url("../images/cccccccccc.jpg");
     background-size: cover;
     height: 520px;
-    width: 426px;
+    width: 480px;
     overflow: hidden;
     
     
-}
-
-
-
-
-#dup {
-    position: relative;
-    right: 50px;
+    
 }
 
 
@@ -311,7 +304,7 @@ figcaption{
     font-weight: bold;
     text-align: center;
     position: relative;
-    top: 3px;
+    bottom: 3px;
     right: 20px;
     width: 300px;
     display: grid;
@@ -349,15 +342,6 @@ figcaption{
 }
 
 
-
-
-
-
-
-
-
-
-
 #bf {
     
     height: 150px;
@@ -370,7 +354,7 @@ figcaption{
     text-align: left;
     left: 10px;
     font-size: 15px;
-    color: rgb(208, 208, 208);
+    color: rgb(0, 0, 0);
 
     
 }
@@ -378,10 +362,10 @@ figcaption{
 #bf h2 {
  left: 7px;
  position: relative;
-    font-size: 26px;
-    font-family: cursive;
+    font-size: 28px;
+    font-family: monospace;
     font-weight: bolder;
-    color: rgb(208, 208, 208);
+    color: rgb(0, 0, 0);
     top: 35px;
 }
 
@@ -394,21 +378,21 @@ figcaption{
     top: 45px;
     right: 5px;
     text-align: right;
-     color: rgb(208, 208, 208);
+     color: rgb(0, 0, 0);
 }
 
 .cart img {
     height: 30px;
     position: relative;
     z-index: 1;
-    left: 370px;
+    left: 430px;
     bottom: 40px;
 }
 .cart1 img {
     height: 30px;
     position: relative;
     z-index: 1;
-    left: 320px;
+    left: 380px;
     bottom: 75px;
 }
 
@@ -417,17 +401,18 @@ figcaption{
     position: relative;
     z-index: 1;
     left: 15px;
-    bottom: 109px;
+    bottom: 115px;
 }
 
 .UN{
-    font-weight: bolder;
-    font-size: 10px;
-    position: relative;
-    top: 250px;
-    background-color: rgb(255, 0, 0);
-    color: rgb(255, 255, 255);
-    padding: 3px;
+  position:relative;
+  top: 292px;
+  background-color: rgb(199, 107, 107);
+  text-align: center;
+  padding: 1px;
+  color: black;
+ 
+    
     
 }
 

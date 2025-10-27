@@ -251,7 +251,6 @@ figcaption{
   #banner {
     position: relative;
     top: 45%;
-    left: 21%;
     font-size: 0.8em;
     text-align: left;
     line-height: 10px; 
@@ -267,7 +266,7 @@ figcaption{
     bottom: 200px;
     background-image: url("../images/cccccccccc.jpg");
     background-size: cover;
-    height: 36rem;
+    height: 880px;
     width: 40rem;
     overflow: hidden;
     
@@ -282,13 +281,6 @@ figcaption{
     right: 50px;
 }
 
-.container {
-    display: flex; 
-    position: relative; 
-    width: 100%;
-    z-index: 1;
-    top: 0;  
-}
 
 
 .navigate {
@@ -320,7 +312,7 @@ figcaption{
     
 }
 
-#blue p {
+#sarah p{
     font-size: 1.2rem;
     font-weight: bold;
     text-align: center;
@@ -329,6 +321,7 @@ figcaption{
     left: 0;
     width: 300px;
     display: grid;
+    z-index: 1;
 
 }
 

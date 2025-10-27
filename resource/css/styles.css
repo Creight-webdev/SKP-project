@@ -273,24 +273,7 @@ figcaption{
 }
 
 
-.collection {
-    font-size: 2rem;
-    display: flex;
-    margin-top: 2rem;
-    --gap: 10px;
-    gap: var(--gap);
-    height: 100px;
-    width: 650px;
-    gap: 50;
-    overflow: hidden;
-    padding-top: 10px;
-    padding-bottom: 0;
-    position: relative;
-   right: 250px;
-    top: 245px;
-    
 
-}
 
 #dup {
     position: relative;
@@ -324,23 +307,6 @@ figcaption{
     
     
     
-}
-
-.collection ul {
-    list-style: none;
-    display: flex;
-    gap: var(--gap);
-    justify-content: space-between;
-    overflow: hidden;
-    animation: scroll 50s linear infinite;
-    min-width: 700px;
-    font-size: 1.5rem;
-    position: relative;
-    bottom:20px;
-    right: 20px;
-   
-    
-
 }
 
 
@@ -454,7 +420,7 @@ figcaption{
     font-size: 1rem;
     width: 390px;
     position: relative;
-    top: 250px;
+    top: 290px;
     right: 150px;
     background-color: rgb(95, 95, 95);
     color: rgb(255, 255, 255);
